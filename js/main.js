@@ -109,7 +109,7 @@ const projects = [
             "Data Engineering · Business Intelligence",
 
         image:
-            "../assets/images/proyecto_control_moras.jpeg",
+            "assets/images/proyecto_control_moras.jpeg",
 
         description:
             "Transformamos múltiples fuentes de información de cartera en un flujo automatizado que valida, consolida y entrega información lista para análisis y seguimiento de mora.",
@@ -154,7 +154,7 @@ const projects = [
             "Data Engineering · Automation",
 
         image:
-            "../assets/images/proyecto_unificacion_fuentes.jpg",
+            "assets/images/proyecto_unificacion_fuentes.jpg",
 
         description:
             "Convertimos múltiples archivos y estructuras de información en un único flujo de procesamiento, combinando la flexibilidad de Excel con la capacidad de automatización de Python.",
@@ -200,7 +200,7 @@ const projects = [
             "Data Analytics · Predictive Analytics",
 
         image:
-            "../assets/images/proyecto_forecast_sql.jpg",
+            "assets/images/proyecto_forecast_sql.jpg",
 
         description:
             "Construimos un entorno de análisis sobre una cartera crediticia simulada para estudiar su comportamiento histórico y proyectar escenarios futuros.",
@@ -247,7 +247,7 @@ const projects = [
             "Data Analytics · Data Quality",
 
         image:
-            "../assets/images/proyecto_outliers.jpg",
+            "assets/images/proyecto_outliers.jpg",
 
         description:
             "Identificamos comportamientos atípicos dentro de los datos para detectar posibles errores, anomalías o casos que requieren atención.",
@@ -294,7 +294,7 @@ const projects = [
             "Data Analytics · Data Integration",
 
         image:
-            "../assets/images/proyecto_avaluos_vehiculos.jpg",
+            "assets/images/proyecto_avaluos_vehiculos.jpg",
 
         description:
             "Integramos información de diferentes fuentes del mercado para construir referencias de valor y facilitar el análisis comparativo de vehículos.",
