@@ -109,7 +109,7 @@ const projects = [
             "Data Engineering · Business Intelligence",
 
         image:
-            "./assets/images/proyecto_control_moras.jpeg",
+            "assets/images/proyecto_control_moras.jpeg",
 
         description:
             "Transformamos múltiples fuentes de información de cartera en un flujo automatizado que valida, consolida y entrega información lista para análisis y seguimiento de mora.",
